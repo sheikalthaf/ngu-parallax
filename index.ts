@@ -1,0 +1,1 @@
+export { NguParallaxModule } from './src/ngu-parallax.module';
